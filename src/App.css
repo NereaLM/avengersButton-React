@@ -1,3 +1,21 @@
+.h1 {
+  border-radius: 25px;
+  position: relative;
+  padding: 25px 15px;
+  background-color: cornflowerblue;
+  margin: 50px 0;
+  height: 200px;
+  text-align: center;
+}
+
+
+.button {
+  border-radius: 25px;
+  background-color: lightblue;
+  text-align: center;
+}
+
+
 .App {
   text-align: center;
 }
@@ -11,7 +29,7 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+}   
 
 .App-header {
   background-color: #282c34;
